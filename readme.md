@@ -16,13 +16,13 @@ This project not only reinforces theoretical concepts but also provides hands-on
 
 
 ## Project Demo. 🎥
-![Gulf Spare Parts Network Diagram simulatited in Packet Tracer.](https://raw.githubusercontent.com/yourusername/your-repo/main/path/to/image.png)
+![Gulf Spare Parts Network Diagram simulatited in Packet Tracer.](https://github.com/mahmoud-b45/Network-Simulation-Project/GSP_diagram.png)
 <a href="https://www.youtube.com/watch?v=your-video-id">
   <img src="https://img.youtube.com/vi/your-video-id/0.jpg" alt="Project Demo" width="480">
 </a>
 
 
 ## Download Project File. 📁
-[Download the Project File](https://github.com/yourusername/your-repo/blob/main/files/project.pak)
+[Download the Project File](https://raw.githubusercontent.com/mahmoud-b45/Network-Simulation-Project/main/project_GSP.pkt)
 
 
